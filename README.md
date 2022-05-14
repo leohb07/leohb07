@@ -1,16 +1,24 @@
-### Hi there 👋
+Olá, Bem Vindo! Eu sou o <b> Leonardo Barrocal 💻</b>
 
-<!--
-**leohb07/leohb07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um pessoa e também um profissional totalmente dedicado, procurando evoluir todos os dias, para conseguir construir uma boa base e também conseguir minha primeira oportunidade no mercado como Junior no desenvolvimento de Apps. 
 
-Here are some ideas to get you started:
+<b>Atualmente estou estudando Análise e Desenvolvimento de Sistemas e também, estou mergulhando a fundo em todo o ecossistema da tecnologia Swift</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<div>
+  <img src="https://img.icons8.com/color/48/000000/swift.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+
+  <br>
+
+  <a href="https://www.linkedin.com/in/leonardobarrocal/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" > 
+  </a>
+  <a href="https://www.instagram.com/leobarrocal/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" > 
+  </a>
+  <a href="mailto:leohb1501@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-    badge&logo=gmail&logoColor=white" alt="gmail" > 
+  </a>
+  
+  <br>
+</div>
