@@ -1,6 +1,6 @@
 Olá, Bem Vindo! Eu sou o <b> Leonardo Barrocal 💻</b>
 
-Sou um pessoa e também um profissional totalmente dedicado, procurando evoluir todos os dias, para conseguir construir uma boa base e também conseguir minha primeira oportunidade no mercado como Junior no desenvolvimento de Apps. 
+Sou uma pessoa e também um profissional totalmente dedicado, procurando evoluir todos os dias, para conseguir construir uma boa base e também conseguir minha primeira oportunidade no mercado como Junior no desenvolvimento de Apps. 
 
 <b>Atualmente estou estudando Análise e Desenvolvimento de Sistemas e também, estou mergulhando a fundo em todo o ecossistema da tecnologia Swift</b>
 
