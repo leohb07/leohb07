@@ -1,15 +1,16 @@
 Olá, Bem Vindo! Eu sou o <b> Leonardo Barrocal 💻</b>
 
-Sou uma pessoa e também um profissional totalmente dedicado, procurando evoluir todos os dias, para conseguir construir uma boa base e também conseguir minha primeira oportunidade no mercado como Junior no desenvolvimento de Apps. 
+Sou uma pessoa e também um profissional totalmente dedicado, procurando evoluir todos os dias, para conseguir construir uma boa base e também conseguir minha primeira oportunidade no mercado em desenvolvimento Web.
 
-<b>Atualmente estou estudando Análise e Desenvolvimento de Sistemas e também, estou mergulhando a fundo em todo o ecossistema da tecnologia Swift</b>
+<b>Atualmente estou estudando Análise e Desenvolvimento de Sistemas e também, estou mergulhando a fundo em todo o ecossistema Web</b>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <div>
-  <img src="https://img.icons8.com/color/48/000000/swift.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>  
 
   <br>
 
