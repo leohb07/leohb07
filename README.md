@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Leonardo Barrocal 👋
 
-<!--
-**leohb07/leohb07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
+I'm a Software Engineer, studing everyday with focus on Frontend - `React | Next.js`;
 
-Here are some ideas to get you started:
+- Main Language: `Typescript | Javascript`;
+- Others languages: `Delphi`;
+- Mobile: `React Native`, `Expo`, `NativeWind`, `React Navigation`;
+- Frontend: `React`, `Next.js` `Typescript`, `Tailwindcss`, `ChakraUI`, `Shadcn/UI`, `Zustand`;
+- Database: `SQL Server`, `MySQL`, `Firebase`;
+- Layout Design: `Figma`;
+- Version code control: `Git`, `GitHub`, `GitFlow`, `BitBucket`;
+- Agile Framework: `Scrum`, `Kanban`;
+- Tools: `VsCode`, `CMD - Command Line`, `MacOS | Windows | Linux`;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts
+
+- Email: leohb1501@gmail.com
+- LinkedIn: https://www.linkedin.com/in/leonardobarrocal/
