@@ -1,17 +1,14 @@
 ### Hi there, I'm Leonardo Barrocal 👋
 
 ### About
-I'm a Software Engineer, studing everyday with focus on Frontend - `React | Next.js`;
+I'm a Software Engineer, studing everyday with focus on Backend - `NodeJS`;
 
-- Main Language: `Typescript | Javascript`;
-- Others languages: `Delphi`;
-- Mobile: `React Native`, `Expo`, `NativeWind`, `React Navigation`;
-- Frontend: `React`, `Next.js` `Typescript`, `Tailwindcss`, `ChakraUI`, `Shadcn/UI`, `Zustand`;
-- Database: `SQL Server`, `MySQL`, `Firebase`;
-- Layout Design: `Figma`;
+- Main Language: `TypeScript | JavaScript`;
+- Backend: `NestJS`, `Fastify`, `Express`;
+  - More: `TDD`, `DDD`, `SOLID`, `AWS`, `CI/CD`, `Docker`, `RabbitMQ`, `Observability`;
+- Database: `MongoDB`, `Redis`, `MySQL`;
 - Version code control: `Git`, `GitHub`, `GitFlow`, `BitBucket`;
 - Agile Framework: `Scrum`, `Kanban`;
-- Tools: `VsCode`, `CMD - Command Line`, `MacOS | Windows | Linux`;
 
 ### Contacts
 
