@@ -13,4 +13,4 @@ I'm a Software Engineer, studing everyday with focus on Backend - `NodeJS`;
 ### Contacts
 
 - Email: leohb1501@gmail.com
-- LinkedIn: https://www.linkedin.com/in/leonardobarrocal/
+- LinkedIn: https://www.linkedin.com/in/lbarrocal/
