@@ -5,7 +5,7 @@ I'm a Software Engineer, studing everyday with focus on Backend - `NodeJS`;
 
 - Main Language: `JavaScript | TypeScript`;
 - Backend: `Express`, `NestJS`;
-  - More: `TDD`, `SOLID`, `CI/CD`, `Docker`, `RabbitMQ`;
+  - More: `TDD`, `SOLID`, `Clean Architecture`, `CI/CD`, `Docker`, `RabbitMQ`;
 - Database: `Postgres`, `MongoDB`, `Redis`;
 - Version code control: `Git`, `GitHub`, `BitBucket`;
 - Agile Framework: `Scrum`, `Kanban`;
