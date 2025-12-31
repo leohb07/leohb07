@@ -29,5 +29,5 @@ Node.js and NestJS remain part of my background and are used as complementary to
 ---
 
 ## Contacts
-📧 Email: leohb1501@gmail.com  
+📧 Email: lbarrocal15@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/lbarrocal/
