@@ -1,16 +1,33 @@
-### Hi there, I'm Leonardo Barrocal 👋
+Hi there, I'm Leonardo Barrocal 👋
 
-### About
-I'm a Software Engineer, studing everyday with focus on Backend - `NodeJS`;
+## About
+I'm a Software Engineer focused on **Backend Engineering**, currently working with **Java and Spring Boot**, specializing in **payment systems, event-driven architectures, and distributed systems**.
 
-- Main Language: `JavaScript | TypeScript`;
-- Backend: `Express`, `NestJS`;
-  - More: `TDD`, `SOLID`, `Clean Architecture`, `CI/CD`, `Docker`, `RabbitMQ`;
-- Database: `Postgres`, `MongoDB`, `Redis`;
-- Version code control: `Git`, `GitHub`, `BitBucket`;
-- Agile Framework: `Scrum`, `Kanban`;
+I have solid experience building **scalable and resilient APIs**, applying engineering best practices to systems that require **high availability, consistency, and reliability**, especially in **financial and payment contexts**.
 
-### Contacts
+Node.js and NestJS remain part of my background and are used as complementary tools when appropriate.
 
-- Email: leohb1501@gmail.com
-- LinkedIn: https://www.linkedin.com/in/lbarrocal/
+---
+
+## Main Stack
+- **Language:** Java (17+)
+- **Backend:** Spring Boot, Spring Data JPA, Spring Security
+- **Architecture:** Event-driven, Microservices, Clean Architecture, DDD
+- **Messaging:** Apache Kafka
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **Testing:** JUnit 5, Mockito, TDD
+- **Infrastructure:** Docker, CI/CD
+- **Version Control:** Git, GitHub, Bitbucket
+- **Methodologies:** Agile (Scrum, Kanban)
+
+---
+
+## Background (Fallback Stack)
+- **Node.js / TypeScript**
+- **Backend:** NestJS, Express
+
+---
+
+## Contacts
+📧 Email: leohb1501@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/lbarrocal/
