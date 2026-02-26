@@ -1,25 +1,69 @@
-Hi there, I'm Leonardo Barrocal 👋
+# Olá, eu sou Leonardo 👋
 
-## About
-I'm a Software Engineer focused on **Backend Engineering**, currently working with **Node.js and NestJS**, specializing in building **scalable, resilient, and distributed systems**.
+## Backend Engineer | Sistemas Distribuídos | Arquitetura
 
-I have solid experience designing and maintaining **APIs**, applying engineering best practices to systems that require **high availability, consistency, and reliability** across different domains.
+Engenheiro de Software com foco em backend e arquitetura de sistemas distribuídos.
 
----
+Atuo no desenho e construção de plataformas escaláveis, resilientes e de alta performance utilizando Node.js e NestJS, aplicando princípios de engenharia que garantem manutenibilidade, confiabilidade e evolução sustentável dos sistemas.
 
-## Main Stack
-- **Language:** TypeScript
-- **Backend:** Node.js, NestJS
-- **Architecture:** Distributed Systems, Event-driven, Clean Architecture
-- **Messaging:** Apache Kafka, RabbitMQ
-- **Databases:** PostgreSQL, MongoDB, Redis
-- **Testing:** Jest, Supertest, TDD
-- **Infrastructure:** Docker, CI/CD
-- **Version Control:** Git, GitHub, Bitbucket
-- **Methodologies:** Agile (Scrum, Kanban)
+Tenho experiência no desenho de APIs, modelagem de arquiteturas distribuídas, definição de padrões técnicos e construção de sistemas que exigem alta disponibilidade e consistência em ambientes de produção.
+
+Tenho forte preocupação com arquitetura limpa, qualidade de código, performance e decisões técnicas orientadas ao longo prazo.
 
 ---
 
-## Contacts
-📧 Email: lbarrocal15@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/lbarrocal/
+## Stack Principal
+
+**Linguagem**
+- TypeScript
+
+**Backend**
+- Node.js
+- NestJS
+
+**Arquitetura**
+- Sistemas Distribuídos
+- Arquitetura Orientada a Eventos
+- Clean Architecture
+- Domain-Driven Design (DDD)
+
+**Mensageria**
+- RabbitMQ
+- Apache Kafka
+
+**Banco de Dados**
+- PostgreSQL
+- MongoDB
+- Redis
+
+**Testes**
+- Jest
+- Supertest
+- TDD
+
+**Infraestrutura**
+- Docker
+- Pipelines CI/CD
+
+**Versionamento**
+- Git
+- GitHub
+- Bitbucket
+
+---
+
+## Foco em Engenharia
+
+- Construção de APIs escaláveis
+- Design de sistemas distribuídos
+- Mensageria e fluxos assíncronos
+- Otimização de performance
+- Qualidade e manutenibilidade de código
+- Mentalidade de liderança técnica
+
+---
+
+## Contato
+
+📧 lbarrocal15@gmail.com  
+🔗 linkedin.com/in/lbarrocal
